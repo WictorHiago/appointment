@@ -1,0 +1,19 @@
+{
+  "name": "appoitment-project",
+  "version": "1.0.0",
+  "description": "projeto agendamento de consultas com React e Mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WictorHiago/appointment.git"
+  },
+  "author": "WcitorHiago",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WictorHiago/appointment/issues"
+  },
+  "homepage": "https://github.com/WictorHiago/appointment#readme"
+}
